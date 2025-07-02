@@ -21,13 +21,13 @@
 ---
 
 ## 🏁 **Highlighted Projects**
-- [ASL Sign Language Translator](https://github.com/piyushram612/ASL-Sign-Language-Translator)  
+- [ASL Sign Language Translator](https://github.com/piyushram612/ASL_Sign_Language)  
   *Translates ASL hand gestures to text using MediaPipe + Random Forest — 97.5% accuracy.*
 
-- [LED Controller with Sound Sensor + IoT](https://github.com/piyushram612/LED-Sound-IoT-Controller)  
+- [LED Controller with Sound Sensor + IoT](https://github.com/piyushram612/Led-Controller)  
   *NodeMCU project with remote Blynk app monitoring and sound trigger.*
 
-- [Trip Map](https://github.com/piyushram612/Trip-Map)  
+- [Memories Map](https://github.com/piyushram612/Memories_Map)  
   *Interactive web map that pins travel photos and descriptions.*
 
 ---
