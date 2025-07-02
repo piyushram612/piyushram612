@@ -34,7 +34,7 @@
 
 ## 📬 **Get in touch**
 - ✉️ [piyushram.edu@gmail.com](mailto:piyushram.edu@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/piyush-ram-kimidi)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/piyushramkimidi)  
 - 🌐 Portfolio: *coming soon*
 
 ---
